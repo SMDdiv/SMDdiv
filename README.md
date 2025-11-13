@@ -6,13 +6,13 @@
 
 ---
 
-### 🚀 What I Do  
-I build **RAG systems**, **LLM pipelines**, and **real-time Computer Vision** models — especially on **edge devices** like Raspberry Pi.  
-Currently focusing on **Agentic AI**, **startup intelligence**, and **crowd analysis** systems.
+###  What I Do  
+AI Engineer specializing in ML, DL, NLP, RAG frameworks, and Computer Vision, with experience deploying optimized models on both cloud and edge hardware.  
+I enjoy designing scalable pipelines, experimenting with LLM agents, and building production-ready AI systems using PyTorch, LangChain, FastAPI, and YOLOv8.
 
 ---
 
-### 🛠 Tech Stack  
+###  Tech Stack  
 
 <table align="center">
   <tr>
@@ -33,7 +33,7 @@ Currently focusing on **Agentic AI**, **startup intelligence**, and **crowd anal
 
 ---
 
-### 📌 Featured Projects  
+###  Featured Projects  
 - 🧭 **Bawsalatul Mumekkinat** – Agentic RAG for Startup Matching  
   🔗 Repo: https://github.com/Mohammed-F-Alenezi/OpportuMatch  
 
