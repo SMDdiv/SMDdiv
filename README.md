@@ -18,7 +18,7 @@ I enjoy designing scalable pipelines, experimenting with LLM agents, and buildin
   <tr>
     <td align="center" width="50%">
       <p>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,git,github,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,git,github,&theme=dark" />
       </p>
     </td>
     <td align="center" width="50%">
