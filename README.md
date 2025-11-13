@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Saud 👋</h1>
 <h3 align="center">AI & Machine Learning Engineer</h3>
 
-<p align="center">
-  <a href="mailto:smdalbahy.dev@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/saud-aldalbahy/">LinkedIn</a>
-</p>
+
+
 
 ---
 
@@ -15,9 +13,23 @@ Currently focusing on **Agentic AI**, **startup intelligence**, and **crowd anal
 ---
 
 ### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,git,github,linux&theme=dark" />
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,git,github,linux&theme=dark" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMDdiv&layout=compact&theme=dark&hide_border=true" 
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
